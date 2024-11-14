@@ -74,8 +74,8 @@ Navigate to the downloaded course material:
 
 Enter the following commands one by one (paste each line individually and press enter after each line).
 
-    conda create -n py36 python=3.6
-    conda activate py36
+    conda create -n py37 python=3.7
+    conda activate py37
     conda install --yes --file requirements.txt
 
 ### Juypter notebook settings
